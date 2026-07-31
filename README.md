@@ -1,25 +1,22 @@
-# Hi, I'm Deepthi Dharmendra
+# Hi, I'm Deepthi Dharmendra 
 
 Electronics and Communication Engineering graduate building a career in **RTL Design & Digital VLSI**.
 
-I've spent the last few months designing and verifying digital hardware from the ground up. Starting with individual building blocks (ALU, register file, FIFO, UART) and assembling them into a **32-bit single-cycle RISC-V processor** in Verilog. Every module is written from scratch with a self-checking testbench and GTKWave-verified waveforms.
+I've spent the last few months designing and verifying digital hardware from the ground up — starting with individual building blocks (ALU, register file, FIFO, UART) and assembling them into a **32-bit single-cycle RISC-V processor** in Verilog. Every module is written from scratch with a self-checking testbench and GTKWave-verified waveforms.
 
 ---
 
-## 🔧 What I Work With
+##  What I Work With
 
-**HDL**
-`Verilog` · `SystemVerilog (learning)`
+**HDL:** `Verilog` · `SystemVerilog (learning)`
 
-**EDA & Simulation**
-`Icarus Verilog` · `GTKWave`
+**EDA & Simulation:** `Icarus Verilog` · `GTKWave`
 
-**Concepts**
-`RTL Design` · `FSM` · `UART` · `RISC-V ISA` · `Digital Verification` · `Synthesis-aware coding`
+**Concepts:** `RTL Design` · `FSM` · `UART` · `RISC-V ISA` · `Digital Verification` · `Synthesis-aware coding`
 
 ---
 
-## 🏗️ Featured Projects
+##  Featured Projects
 
 ### [Single-Cycle RISC-V Processor](https://github.com/deepthidharmendra/Single-Cycle-RISCV-Processor)
 32-bit processor in Verilog supporting arithmetic, logical, load/store, and branch instructions. Built bottom-up from individually verified submodules.
@@ -30,13 +27,12 @@ FSM-based UART TX/RX in Verilog with loopback integration test, waveform screens
 ### [Synchronous FIFO](https://github.com/deepthidharmendra/FIFO)
 Parameterizable synchronous FIFO with full/empty flag logic, RTL, and self-checking testbench.
 
-
 ---
 
-## 📬 Get in Touch
+##  Get in Touch
 
-- 📧 [deepthidharmendra27@gmail.com] 
-- 💼 [LinkedIn](https://www.linkedin.com/in/deepthi-dharmendra-19291927b/) 
+- 📧 [deepthidharmendra27@gmail.com](mailto:deepthidharmendra27@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepthi-dharmendra-19291927b/)
 - 📍 India | Open to RTL / VLSI / FPGA roles
 
 ---
