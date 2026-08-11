@@ -1,6 +1,6 @@
 # Hi, I'm Deepthi Dharmendra 
 
-Electronics and Communication Engineering graduate building a career in **RTL Design & Digital VLSI**.
+Electronics and Communication Engineering graduate building a career in **RTL | RISC-V | Hradware Debugging**.
 
 I've spent the last few months designing and verifying digital hardware from the ground up — starting with individual building blocks (ALU, register file, FIFO, UART) and assembling them into a **32-bit single-cycle RISC-V processor** in Verilog. Every module is written from scratch with a self-checking testbench and GTKWave-verified waveforms.
 
